@@ -1,1 +1,34 @@
-Micro API test
+Kebijakan Privasi Data Pengguna Micro API
+Definisi
+Micro API adalah alat untuk menguji API dan gratis.
+
+Micro API bisa anda dapatkan di Playstore https://play.google.com/store/apps/details?id=id.microapi.is.fun
+
+Halaman ini akan menjelaskan tentang keamanan privasi pengguna.
+1.Data Pengguna (mencakup id, email, nomor telepon dan sebagainya).
+apa yang kami lakukan ?.
+-Kami tidak akan Meminta data apapun
+-Kami tidak akan Mengumpulkan data apapun.
+-Kami tidak akan Membagikan kepada siapapun.
+
+2.Data API (Mencakup url, headers, params)
+Data api adalah data yang anda kirim kepada pihak ke 3.
+-Kami tidak Mengumpulkan data ini.
+-Kami tidak mengetahui data yang anda masukkan.
+-Hanya anda dan pihak ketiga yang mengetahui data ini.
+-Data ini tidak dikirim ke pihak kami
+-Data ini hanya dikirim ke pihak ketiga yang sudah anda tentukan.
+
+Catatn: dwngan menggunakan Micro API kamu setuju dengan privasi ini 
+dan seruju dengan syarat dan ketentuan berikut.
+
+Syarat dan Ketentuan.
+-Mengingat kami hanya menyediakan Micro API hanya sebagai alat untuk
+membantu pengguna dalam API. dan kami tidak melakukan apapun terhadap
+data anda seperti hal yang sudah kami jelaskan di atas.
+dengan ini kami menyatakan kepada siapapun yang menggunakan Micro API
+BAHWA Kami tidak bertanggung jawab atas kerugian material dalam bentuk
+apapun karena meskipun anda menggunakan Micro API segala bentuk tindakan
+adalah murni dilakukan oleh pengguna.
+
+terimakasih...
